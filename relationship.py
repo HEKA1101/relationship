@@ -29,5 +29,5 @@ else:
         c = ('本人')
 
 #output
-st.write('三个人的关系')
+st.write('人物之间的关系')
 st.write(c)
