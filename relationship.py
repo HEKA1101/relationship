@@ -1,8 +1,8 @@
 import streamlit as st
 
 # Input
-a = st.selectbox('人物1', ('唐恺仪','何博文','蔡伯源'))
-b = st.selectbox('人物2', ('唐恺仪','何博文','蔡伯源'))
+a = st.selectbox('人物1', ('蔡伯源','唐恺仪','何博文'))
+b = st.selectbox('人物2', ('蔡伯源','唐恺仪','何博文'))
 
 #process
 if a == '蔡伯源':
